@@ -1,0 +1,44 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    background: darkgrey;
+    margin: 0;
+}
+header {
+    color: black;
+    background: white;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+.left {
+    display: inline-block;
+    width: 80%;
+    margin-left: 10px;
+}
+.right {
+    display: inline-block;
+    width: 15%;
+    text-align: right;
+}
+.h2 {
+    font-weight: bold;
+}
+p.date {
+    color: grey;
+    font-weight: lighter;
+}
+.post {
+    color: black;
+    background: white;
+}
+div.container {
+    width: 600px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+img {
+    width: 100%;
+}
+.description {
+    padding: 10px;
+}
